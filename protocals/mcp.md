@@ -5571,7 +5571,7 @@ This tutorial will primarily focus on tools.
     }
     ```
 
-    Uses the the `MethodToolCallbackProvider` utils to convert the `@Tools` into actionalble callbackes used by the MCP server.
+    Uses the `MethodToolCallbackProvider` utils to convert the `@Tools` into actionalble callbackes used by the MCP server.
 
     ### Running the server
 

